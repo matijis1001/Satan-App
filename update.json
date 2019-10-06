@@ -1,3 +1,11 @@
 {
-  wew : "wew"
+    "data": [{
+        "keyword": "hehe",
+        "type": "inkeyword",
+        "answer": "haha"
+    }],
+    "option": {
+        "dota": true,
+        "counteratok": true
+    }
 }
