@@ -1,11 +1,11 @@
 {
-    "data": [{
-        "keyword": "hehe",
-        "type": "inkeyword",
-        "answer": "haha"
-    }],
-    "option": {
-        "dota": true,
-        "counteratok": true
-    }
+    "lastUpdate": {
+        "version": 2,
+        "url": "iniLink"
+    },
+    "prevUpdate": [{
+        "version": 1,
+        "url": "https://github.com/matijis1001/Satan-App/releases/download/1/Satan.Controller.-.No.Spam.apk",
+        "size": 2099092
+    }]
 }
