@@ -1,12 +1,16 @@
 {
     "lastUpdate": {
-        "version": 2,
+        "version" : "2.0"
+        "versionCode": 2,
         "url": "https://github.com/matijis1001/Satan-App/releases/download/1/Satan.Controller.-.No.Spam.apk",
+        "note" : "",
         "size": 2099092
     },
     "prevUpdate": [{
-        "version": 1,
+        "version": "1.0",
+        "versionCode": 1,
         "url": "https://github.com/matijis1001/Satan-App/releases/download/1/Satan.Controller.-.No.Spam.apk",
+        "note" : "",
         "size": 2099092
     }]
 }
