@@ -1,0 +1,1 @@
+Lebih terasa mantapnya
